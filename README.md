@@ -12,7 +12,7 @@ Javascript, HTML, CSS, Bootstrap, C++, C, Python, Java, Mysql, PHP..
 ## Other 
 👩‍💻 I'm currently busy on developing..
 
-🧠 I'm currently learning React, Machine learning, Artificial Intelligence...
+🧠 I'm currently learning React, Machine learning, Artificial Intelligence, Data Science...
 
 📫 How to reach me nadiaiqbal206@gmail.com
 
